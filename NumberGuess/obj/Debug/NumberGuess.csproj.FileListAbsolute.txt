@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe
+c:\users\admin\documents\visual studio 2015\Projects\NumberGuess\NumberGuess\bin\Debug\NumberGuess.pdb
+c:\users\admin\documents\visual studio 2015\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.exe
+c:\users\admin\documents\visual studio 2015\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.pdb
+c:\users\admin\documents\visual studio 2015\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.csprojResolveAssemblyReference.cache
